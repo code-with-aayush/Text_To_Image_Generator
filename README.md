@@ -12,7 +12,7 @@ Install all the required modules using requirements.txt file.
 
 Step 2:
 
-Go to prodia.com and create a API key.
+Go to https://prodia.com/ and create a API key.
 
 Step 3:
 
